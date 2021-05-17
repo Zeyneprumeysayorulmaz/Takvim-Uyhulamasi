@@ -1,1 +1,1 @@
-# Yaz-l-mProjeY-netimi
+# Yazilim Proje Yonetimi
